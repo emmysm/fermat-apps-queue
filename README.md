@@ -30,7 +30,7 @@ Any industry member that has a service running can add a candidate APP to the qu
 
 ### Adding a candidate Fermat APP to the Queue
 
-Open an Issue in this repo and plese do this:
+Open an Issue in this repo and please do this:
 
 * At the subject mention you startup name and that you are requesting to add a project to the queue.
 * At the message body give a brief description of what your APP needs to do. Don't forget to tag the @fermat-apps-queue-team to call our attention.
