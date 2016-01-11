@@ -17,5 +17,16 @@ Any industry member that has a running service can add a candidate APP to the qu
 
 ## The Queue
 
+|Startup / Company|Project Name|Version|Status|Weight|Bounty|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Digicoins|Exchange Wallet|1|Started|||
+|Digicoins|Exchange Wallet|2|Started|||
+|Digicoins|Exchange Wallet|3|Started|||
+|Digicoins|Merchant Wallet|1|Started|||
+|Digicoins|Exchange Wallet|4|Started|||
+
+
+
+
 
 
