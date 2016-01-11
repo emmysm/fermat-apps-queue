@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Fermat is designed to easily build Android APPs running on top of the Fermat Framework. We call these APPs _Fermat APPs_. Anybody can code these APPs, but in the early stage where the Fermat project is, _Fermat APPs_ are not so easy to build sin all the tools we expecto to build to streamline the process are not ready yet.
+Fermat is designed to easily build Android APPs running on top of the Fermat Framework. We call these APPs _Fermat APPs_. Anybody can code these APPs, but in the early stage where the Fermat project is, _Fermat APPs_ are not so easy to build since all the tools we expect to build to streamline the process are not ready yet.
 
 At the same time, we need real world APPs to be running in order to fine tune the underlaying mechanisms of the Fermat Framework. For that reason the same network of developers building Fermat is willing to write the code of the first set of Fermat APPs in order to stress test the overall architecture of the system.
 
