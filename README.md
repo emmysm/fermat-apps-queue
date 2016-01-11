@@ -13,7 +13,7 @@ We manage a queue of third parties APPs to be coded by ourselves as a way to boo
 
 ### Who can add candidate APPs to the queue? 
 
-Any industry member that has a running service can add a candidate APP to the queue. The @fermat-apps-queue-team will evaluate the candidate APPs and assign a weight according to how well it fits into Fermat's strategy at this stage and other considerations detailed below. This weight repositions the candidate on the queue or waiting list. When a dev-team is ready to process the next APP on the queue it will start working on the on positioned first.
+Any industry member that has a service running can add a candidate APP to the queue. The @fermat-apps-queue-team will evaluate the candidate APPs and assign a weight according to how well it fits into Fermat's strategy at this stage and other considerations detailed below. This weight repositions the candidate on the queue or waiting list. When a dev-team is ready to process the next APP on the queue it will start working on the on positioned first.
 
 ## The Queue
 
@@ -26,7 +26,30 @@ Any industry member that has a running service can add a candidate APP to the qu
 |Digicoins|Exchange Wallet|4|Queued|||Merchat discovery and interaction|
 
 
+## The Rules
 
+### Adding a candidate Fermat APP to the Queue
 
+Open an Issue in this repo and plese do this:
 
+* At the subject mention you startup name and that you are requesting to add a project to the queue.
+* At the message body give a brief description of what your APP needs to do. Don't forget to tag the @fermat-apps-queue-team to call our attention.
+
+This issue will start the process of adding your APP to the queue. After a short exchange your APP should be added.
+
+### Project partitioning
+
+Projects will usually be partitioned in more than one part. This makes the development process easier for everyone. The first part is usually the MVP (Minimun Viable Product). Each part of the project will be queued independently as they are different versions of your Fermat APP. 
+
+### Offering a bounty
+
+You are free to offer a cash bounty for your APP to be processed faster. Remember this is a open source project. The bounty will impact on the weight assigned to your project. Consider a bounty to support functionality that is more unique to your use cases.
+
+### Fermat APP components
+
+All Fermat APPs are built with re-usable components. This means that to build yours, we are going to re-use whatever it fits in your project. At the same time many of the new components built are not going to be specific for your APP. In fact we expect to build as little as possible specific components. Usually what is specific is the component representing the user interface, and the component accesing your back end web services. The rest are either components already built or intended to be re-used later.
+
+### Involving your developers
+
+If you want to can also get your own developers involved in building the your Fermat APP. This will help you later to be in control of the source code of your APP.
 
