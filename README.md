@@ -43,7 +43,7 @@ Projects will usually be partitioned in more than one part. This makes the devel
 
 ### Offering a bounty
 
-You are free to offer a cash bounty for your APP to be processed faster. Remember this is a open source project. The bounty will impact on the weight assigned to your project. Consider a bounty to support functionality that is more unique to your use cases.
+You are free to offer a cash bounty for your APP to be processed faster. Remember this is a open source project and bounties is a common mechanism to get things done. The bounty will impact on the weight assigned to your project. Consider a bounty to support functionality that is more unique to your use cases.
 
 ### Fermat APP components
 
