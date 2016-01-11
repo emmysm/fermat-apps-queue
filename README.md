@@ -17,13 +17,13 @@ Any industry member that has a running service can add a candidate APP to the qu
 
 ## The Queue
 
-|Startup / Company|Project Name|Version|Status|Weight|Bounty|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|Digicoins|Exchange Wallet|1|Started|||
-|Digicoins|Exchange Wallet|2|Started|||
-|Digicoins|Exchange Wallet|3|Started|||
-|Digicoins|Merchant Wallet|1|Started|||
-|Digicoins|Exchange Wallet|4|Started|||
+|Startup|Project Name|Version|Status|Weight|Bounty|Description|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Digicoins|Exchange Wallet|1|Started|80||Multi-currency exchange users wallet|
+|Digicoins|Exchange Wallet|2|Next in Queue|||Mobile registration|
+|Digicoins|Exchange Wallet|3|Queued|||Local accounts features|
+|Digicoins|Merchant Wallet|1|Queued|||Merchat wallet with product catalog|
+|Digicoins|Exchange Wallet|4|Queued|||Merchat discovery and interaction|
 
 
 
