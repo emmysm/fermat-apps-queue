@@ -4,6 +4,18 @@
 
 ## Introduction
 
-Fermat is to easily build Android APPs running on top of the Fermat Framework, which we call Fermat APPs. Anybody can code this APPs, but in the early stage where the Fermat project is, the same network of developers is willing to write de code of a first set of Fermat APPs in order to test the overall architecture of the system.
+Fermat is designed to easily build Android APPs running on top of the Fermat Framework. We call these APPs _Fermat APPs_. Anybody can code these APPs, but in the early stage where the Fermat project is, _Fermat APPs_ are not so easy to build sin all the tools we expecto to build to streamline the process are not ready yet.
 
-For that reason we manage a queue of third parties APPs to be coded by ourselves as a way to bootstrap the system. So, who can add candidate APPs to the queue? Any industry member that has a running service can add a candidate APP to the queue. A team managing this will evaluate the candidate APP and assing a weight according to how well it fits into Fermat's strategy at this stage. This weight repositions the candidate on the queue or waiting list. 
+At the same time, we need real world APPs to be running in order to fine tune the underlaying mechanisms of the Fermat Framework. For that reason the same network of developers building Fermat is willing to write the code of the first set of Fermat APPs in order to stress test the overall architecture of the system.
+
+We manage a queue of third parties APPs to be coded by ourselves as a way to bootstrap the system. 
+
+
+### Who can add candidate APPs to the queue? 
+
+Any industry member that has a running service can add a candidate APP to the queue. The @fermat-apps-queue-team will evaluate the candidate APPs and assign a weight according to how well it fits into Fermat's strategy at this stage and other considerations detailed below. This weight repositions the candidate on the queue or waiting list. When a dev-team is ready to process the next APP on the queue it will start working on the on positioned first.
+
+## The Queue
+
+
+
