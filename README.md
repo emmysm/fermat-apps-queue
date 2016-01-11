@@ -17,13 +17,13 @@ Any industry member that has a service running can add a candidate APP to the qu
 
 ## The Queue
 
-|Startup|Project Name|Version|Status|Weight|Bounty|Description|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Digicoins|Exchange Wallet|1|Started|80||Multi-currency exchange users wallet|
-|Digicoins|Exchange Wallet|2|Next in Queue|||Mobile registration|
-|Digicoins|Exchange Wallet|3|Queued|||Local accounts features|
-|Digicoins|Merchant Wallet|1|Queued|||Merchat wallet with product catalog|
-|Digicoins|Exchange Wallet|4|Queued|||Merchat discovery and interaction|
+|Startup|Project Name|Version|Status|Weight|Bounty|Own Devs|Description|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Digicoins|Exchange Wallet|1|Started|80||0|Multi-currency exchange users wallet|
+|Digicoins|Exchange Wallet|2|Next in Queue|||0|Mobile registration|
+|Digicoins|Exchange Wallet|3|Queued|||0|Local accounts features|
+|Digicoins|Merchant Wallet|1|Queued|||0|Merchat wallet with product catalog|
+|Digicoins|Exchange Wallet|4|Queued|||0|Merchat discovery and interaction|
 
 
 ## The Rules
@@ -37,13 +37,17 @@ Open an Issue in this repo and plese do this:
 
 This issue will start the process of adding your APP to the queue. After a short exchange your APP should be added.
 
+### Setting the weight
+
+To estimate the weight the @fermat-apps-queue will usually consider how reuseable the components that need to be built for your Fermat APPs are going to be. The more reusable the highest the weight. If you need several components specific to you, consider offering a cash bounty of offering help with your own developers for those cases.
+
 ### Project partitioning
 
 Projects will usually be partitioned in more than one part. This makes the development process easier for everyone. The first part is usually the MVP (Minimun Viable Product). Each part of the project will be queued independently as they represent different versions of your Fermat APP. 
 
 ### Offering a bounty
 
-You are free to offer a cash bounty for your APP to be processed faster. Remember this is a open source project and bounties programs are a common mechanism to get things done. The bounty will impact on the weight assigned to your project. Consider a bounty to support functionality that is more unique to your use cases.
+You are free to offer a cash bounty for your APP to be processed faster. Remember this is a open source project and bounties programs are a common mechanism to get things done. The bounty will impact on the weight assigned to your project. Consider a bounty to support functionality that is unique to your use cases or can not easily be re-used.
 
 ### Fermat APP components
 
