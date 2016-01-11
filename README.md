@@ -39,7 +39,7 @@ This issue will start the process of adding your APP to the queue. After a short
 
 ### Project partitioning
 
-Projects will usually be partitioned in more than one part. This makes the development process easier for everyone. The first part is usually the MVP (Minimun Viable Product). Each part of the project will be queued independently as they are different versions of your Fermat APP. 
+Projects will usually be partitioned in more than one part. This makes the development process easier for everyone. The first part is usually the MVP (Minimun Viable Product). Each part of the project will be queued independently as they represent different versions of your Fermat APP. 
 
 ### Offering a bounty
 
