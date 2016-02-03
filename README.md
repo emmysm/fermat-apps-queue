@@ -22,8 +22,11 @@ Any industry member that has a service running can add a candidate APP to the qu
 |Digicoins|Exchange Wallet|1|Started|80||0|Multi-currency exchange users wallet|
 |Digicoins|Exchange Wallet|2|Next in Queue|||0|Mobile registration|
 |Digicoins|Exchange Wallet|3|Queued|||0|Local accounts features|
-|Digicoins|Merchant Wallet|1|Queued|||0|Merchant wallet with product catalog|
-|Digicoins|Exchange Wallet|4|Queued|||0|Merchant discovery and interaction|
+|Digicoins|Merchant Wallet|1|Queued|||0|Merchat wallet with product catalog|
+|Digicoins|Exchange Wallet|4|Queued|||0|Merchat discovery and interaction|
+|Tatiana|Artist Platform|1|Queued|||0|Artist APP|
+|Tatiana|Artist Platform|2|Queued|||0|Artist Fan APP|
+
 
 
 ## The Rules
