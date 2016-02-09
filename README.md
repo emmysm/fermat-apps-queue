@@ -26,9 +26,9 @@ Any industry member that has a service running can add a candidate APP to the qu
 |Digicoins|Exchange Wallet|4|Queued|||0|Merchat discovery and interaction|
 |Tatiana|Artist Platform|1|Queued|||0|Artist APP|
 |Tatiana|Artist Platform|2|Queued|||0|Artist Fan APP|
-|Paint All Over Me|Digital Asset Shop|1|Queued|||0|Artist APP|
-|Paint All Over Me|Digital Asset Shop|2|Queued|||0|Artist Fan APP|
-
+|Paint All Over Me|Digital Asset Shop|1|Queued|||0|Shop for Selling Digital Assets|
+|Paint All Over Me|Digital Asset Shop|2|Queued|||0|Shoppers APP|
+|Paint All Over Me|Digital Asset Shop|3|Queued|||0|Redeem Points APP|
 
 ## The Rules
 
